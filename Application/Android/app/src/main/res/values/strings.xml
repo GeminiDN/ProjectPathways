@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">projectpathways</string>
+    <string name="map_search">Search</string>
+    <string name="map_my_location">My Location</string>
+</resources>
